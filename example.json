@@ -1,0 +1,13 @@
+{
+  "name": "Test User",
+  "email": "test@example.com",
+  "country": "United States",
+  "goal": "personal",
+  "apiResponse": {
+    "success": true,
+    "message": "AI response generated successfully",
+    "data": {
+      "content": "This is a test AI response for Cypress testing purposes."
+    }
+  }
+}
